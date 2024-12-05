@@ -3,9 +3,9 @@
 	"id": "hammercraftarmor",
 	"version": "${version}",
 	"name": "HammerCraftArmor",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Welcome to the Hammer Craft Equipment Extension Module.",
 	"authors": [
-		"Me!"
+		"Redstone233"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -29,7 +29,7 @@
 		"fabricloader": ">=0.16.9",
 		"minecraft": "~1.21.3",
 		"java": ">=21",
-		"fabric-api": "*"
+		"fabric-api": ">=0.110.0"
 	},
 	"suggests": {
 		"another-mod": "*"
