@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "hammercraftarmor",
+	"id": "hca",
 	"version": "${version}",
 	"name": "HammerCraftArmor",
 	"description": "Welcome to the Hammer Craft Equipment Extension Module.",
