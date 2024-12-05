@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "hca",
 	"version": "${version}",
-	"name": "HammerCraftArmor",
+	"name": "Hammer Craft Armor",
 	"description": "Welcome to the Hammer Craft Equipment Extension Module.",
 	"authors": [
 		"Redstone233"
