@@ -31,6 +31,17 @@
 		"java": ">=21",
 		"fabric-api": ">=0.110.0"
 	},
+	,
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.com/invite/ug9HCMZpD3"
+			},
+			"parent": {
+				"id": "builder-api"
+			}
+		}
+	},
 	"suggests": {
 		"another-mod": "*"
 	}
