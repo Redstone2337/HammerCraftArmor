@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "hca:slowness"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "hca:slowness"
+      }
+    ]
+  }
+}
