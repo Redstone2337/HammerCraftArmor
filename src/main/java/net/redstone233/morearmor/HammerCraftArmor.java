@@ -2,8 +2,10 @@ package net.redstone233.morearmor;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.redstone233.morearmor.events.CustomArmorEffect;
 import net.redstone233.morearmor.items.ModArmorGroups;
 import net.redstone233.morearmor.items.ModArmorItems;
+import net.redstone233.morearmor.tags.enchantment.ArmorTags;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -22,6 +24,8 @@ public class HammerCraftArmor implements ModInitializer {
 		// Proceed with mild caution.
         ModArmorItems.registerArmorItems();
         ModArmorGroups.registerModArmorItemGroup();
+		ArmorTags.registerArmorTags();
+//		CustomArmorEffect.init();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
